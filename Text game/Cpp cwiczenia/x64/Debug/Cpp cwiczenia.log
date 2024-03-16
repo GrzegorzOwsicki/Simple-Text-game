@@ -1,0 +1,25 @@
+﻿D:\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Cpp cwiczenia.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Armor.cpp
+  Cleric.cpp
+D:\Lab Cpp\Cpp cwiczenia\Cpp cwiczenia\Cleric.cpp(6,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Etnity.cpp
+  Fighter.cpp
+D:\Lab Cpp\Cpp cwiczenia\Cpp cwiczenia\Fighter.cpp(13,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\Lab Cpp\Cpp cwiczenia\Cpp cwiczenia\Fighter.cpp(22,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Lab Cpp\Cpp cwiczenia\Cpp cwiczenia\Fighter.cpp(106,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Lab Cpp\Cpp cwiczenia\Cpp cwiczenia\Fighter.cpp(116,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Lab Cpp\Cpp cwiczenia\Cpp cwiczenia\Fighter.cpp(126,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Goblin.cpp
+  Golem.cpp
+  Human.cpp
+  Plant.cpp
+  Rouge.cpp
+  Main.cpp
+  Game.cpp
+  utlis.cpp
+  Weapon.cpp
+D:\Lab Cpp\Cpp cwiczenia\Cpp cwiczenia\Weapon.cpp(33,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Wizard.cpp
+  Wolf.cpp
+  Generating Code...
+  Cpp cwiczenia.vcxproj -> D:\Lab Cpp\Cpp cwiczenia\x64\Debug\Text game.exe
